@@ -23,7 +23,7 @@ public class CrudApplication {
         dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
         dataSource.setUrl("jdbc:mysql://localhost:3306/optim");
         dataSource.setUsername("root");
-        dataSource.setPassword("Abhi@687775");
+        dataSource.setPassword("yourpassword");
         return dataSource;
     }
 
